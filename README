@@ -1,0 +1,8 @@
+Pentru aceasta parte am decis sa folosesc un dataset cu filme si seriale de pe
+Netflix. 
+Dataset-ul este disponibil aici: https://www.kaggle.com/datasets/shivamb/netflix-shows/
+
+Datasetul este structurat astfel: id, tipul showului(serial/film), titlu,
+regizor, distributie, tara, data adaugarii pe NF, anul lansarii, rating,
+durata, cateogrii si descriere.
+
