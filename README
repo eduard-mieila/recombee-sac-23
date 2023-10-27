@@ -1,3 +1,17 @@
+MIEILĂ Eduard-Robert, EGOV1-B
+
+Integrare Recombee - Partea a II-a 
+Pentru partea a doua a acestui proiect am adaugat 10 utilizatori "uXXX".
+Am folosit API-ul Recombee pentru a ii adauga, am generat apoi cateva
+interactiuni de tipul AddDetailView pe diferite filme/seriale din DB.
+Dupa ce am trimis aceste interactiuni catre Recombee, vom solicita cate
+5 recomandari pentru fiecare dintre utilizatorii nostri si vom afisa
+id-urile filmelor/serialelor recomandate.
+
+Commit-ul pentru aceasta parte: https://github.com/eduard-mieila/recombee-sac-23/commit/80eaac88734c31457d17358d3885594ae47c2e5f
+
+
+Integrare Recombee - Partea I
 Pentru aceasta parte am decis sa folosesc un dataset cu filme si seriale de pe
 Netflix. 
 Dataset-ul este disponibil aici: https://www.kaggle.com/datasets/shivamb/netflix-shows/
