@@ -6,3 +6,4 @@ Datasetul este structurat astfel: id, tipul showului(serial/film), titlu,
 regizor, distributie, tara, data adaugarii pe NF, anul lansarii, rating,
 durata, cateogrii si descriere.
 
+Repo-ul pentru aceasta parte: https://github.com/eduard-mieila/recombee-sac-23
